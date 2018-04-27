@@ -1,5 +1,5 @@
 ---
-title: This is my fourth post
+title: This is my fifth post
 ---
 
 At this moment, I have my website finished, apart from the visualizer page and the cover page. The visualizer page is taking much longer than I expected. I attemoted to debug the processing.js files in sublime, trying to make it a p5.js file. However, my attempts weren't successful, so I had to simplify it and begin from scratch, adding in parts of the processing code where relevant. I'm really trying to figure out how to make this sketch work but I'm not too sure what I'm going to do if these attempts don't work by the time I need to present. 
