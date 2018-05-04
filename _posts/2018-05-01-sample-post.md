@@ -1,5 +1,5 @@
 ---
-title: This is my fifth post
+title: This is my sixth post
 ---
 
 I have further tried to debug the processing.js files in sublime. I managed to get the canavas, audio, and a circle on the webpage, however, I don't think I will have enough time to complete this file for our presentations. So I am planning to begin from scratch and make a visualizer that meets my goals.
